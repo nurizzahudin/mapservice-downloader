@@ -28,7 +28,7 @@ cd mapservice-downloader
 pip install -r requirements.txt
 ```
 
-2. run the apps
+4. run the apps
 
 ```
 python main.py
