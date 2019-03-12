@@ -1,6 +1,6 @@
 # MapServer Downloader
 
-Yet another little script to download map server data to various supported format
+Yet another little script to download online map service data to various supported format
 
 ## Getting Started
 
